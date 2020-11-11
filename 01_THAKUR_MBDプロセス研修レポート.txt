@@ -1,0 +1,31 @@
+MBDプロセス研修
+番号 01 氏名 THAKUR CHETAN PRAKSH
+
+1.	本研修への参加目的とその成果についてご記入ください (Please describe the purpose of participating in this training and the results.)
+
+Understanding and get hands on with MBD in general. Theoretically the concept of MBD sounds good and easy to understand but I am not aware of practical implementation and requirement. Through this course I wish to learn/get practical and hands on with various stages of MDB process as platform/base for future learning and development.
+
+2.	モデルベース開発とV字開発プロセスについて説明してください (Describe the model-based development and V-shaped development process)
+
+Model based development with V-shaped development process signifies very generic development process. It starts with requirement gathering and defining specification, developing simple models which later turn into large and complex models as required. Automatic code generation after satisfactory level are achieved in the model. Testing generated code with real hardware and improving the model. At the end system calibration and deployments of the developed system.
+
+
+3.	V字プロセスの有用性と注意点に関して考察をしてください (Consider the usefulness and caveats of the V-shaped process)
+
+The V-shaped development process looks very simple and easy to follow and manage. But it does not specify managing change in requirements, type of testing required at various levels in the development process. It is difficult to predict the results of HILS based on the results of SILS or PILS. To me it seems, this process is very tightly coupled with various tools used for development in machine design and development in heavy industries.
+Without practical experience in this domain and development process it is hard to comment anything further.
+4.	制御におけるワインドアップ現象について説明してください (Explain the windup phenomenon in control)
+
+Based on https://en.wikipedia.org/wiki/Integral_windup
+In general terms, difference in ideal vs real systems, the ideal output is impossible for real system to achieve. The controller output goes beyond expected threshold and control variable has no effect on the rising system output. 
+Anything above this I need further study. 
+
+5.	今後の業務への展開について記述してください (Please describe the future development of your business.)
+
+Implement MBD process in project development, reduce time, identify defect and changes earlier in the process than in implementation process. 
+Other than this I wish to understand the key technical elements in decision making in early stage of development process.
+
+6.	講義への意見・要望等があれば自由にご記入ください (If you have any opinions or requests for the lecture, please feel free to write them down.)
+
+My Japanese language skills is basic and following videos and contents easily is difficult for me. Having contents or videos with English subtitles would be useful, but for now I can adjust. In future please see if you can accommodate this request. 
+
