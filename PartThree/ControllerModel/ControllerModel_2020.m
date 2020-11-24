@@ -12,6 +12,6 @@ n = 10;
 % simulation parameters
 Endtime = 10;
 
-filename = "motorcontroller.slx";
+filename = "ControllerModel_sim_2020.slx";
 open(filename);
 sim(filename);
