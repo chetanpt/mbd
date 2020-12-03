@@ -7,7 +7,7 @@ SV = 1000;
 Kp = 0.1;
 Ki = 0.1;
 Kd = 0;
-n = 10; 
+n = 8; 
 
 % simulation parameters
 Endtime = Inf; % simulation end time
